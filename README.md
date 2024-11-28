@@ -1,99 +1,97 @@
-# 🚀 Guia Completo para Baixar, Visualizar e Publicar o Site Doe.Fácil 🌐
+# 🚀 Passo a Passo para Baixar, Rodar e Publicar o Site Doe.Fácil 🌐
 
-Neste tutorial, você aprenderá como baixar o código do site **Doe.Fácil**, visualizar o projeto localmente em seu computador e, por fim, colocá-lo no ar utilizando seu próprio domínio. Vamos começar!
+Neste guia, você aprenderá como baixar o código do **Doe.Fácil**, visualizar o site localmente no seu computador e, finalmente, colocá-lo no ar com um domínio de sua escolha. Vamos te guiar por cada etapa.
 
-## 📥 1. Como Baixar o Repositório
+## 📥 1. Como Obter o Código Fonte
 
 ### 1.1 Baixando os Arquivos do GitHub
 
 1. **Acesse o Repositório**:
-   - Abra seu navegador (Chrome, Firefox ou outro) e acesse o repositório do site **Doe.Fácil** através deste link: [Doe.Fácil no GitHub](https://github.com/viniciusma7/doe-facil).
+   - Abra seu navegador preferido (Chrome, Firefox, Edge) e acesse o repositório do **Doe.Fácil** através deste link: [Doe.Fácil no GitHub](https://github.com/viniciusma7/doe-facil).
 
 2. **Faça o Download do Repositório**:
-   - No topo da página, clique no botão verde **Code** e selecione **Download ZIP**.
+   - Clique no botão verde **Code** no topo da página e, em seguida, escolha **Download ZIP**.
 
-3. **Extração do Arquivo**:
-   - Após o download, vá até a pasta onde o arquivo ZIP foi salvo (geralmente "Downloads").
-   - Clique com o botão direito no arquivo e escolha **Extrair aqui** ou **Extrair para...**.
-   - Isso criará uma pasta chamada **doe-facil** com todos os arquivos necessários.
+3. **Extraia o Arquivo ZIP**:
+   - Após o download, localize o arquivo ZIP na pasta onde foi salvo (normalmente em **Downloads**).
+   - Clique com o botão direito e selecione a opção **Extrair aqui** ou **Extrair para...**. Isso criará uma pasta chamada **doe-facil**.
 
 ### 1.2 Visualizando o Site Localmente
 
-Agora que você tem os arquivos do site no seu computador, vamos abrir o projeto no seu navegador.
+Agora que os arquivos estão no seu computador, é hora de abrir o site e ver como ele está funcionando.
 
-1. **Abra a Pasta Extraída**:
-   - Acesse a pasta **doe-facil** onde os arquivos foram descompactados.
+1. **Abra a Pasta do Repositório**:
+   - Acesse a pasta **doe-facil** onde você extraiu os arquivos.
 
-2. **Abra o Arquivo `index.html`**:
-   - Encontre o arquivo `index.html` e dê um clique duplo. Isso abrirá o site diretamente no seu navegador.
+2. **Execute o Arquivo `index.html`**:
+   - Localize o arquivo `index.html` e clique duas vezes sobre ele. O seu navegador será aberto automaticamente e o site será carregado.
 
-Você agora está visualizando o site localmente, sem necessidade de conexão com a internet.
+Agora você pode explorar o site localmente, sem precisar de internet.
 
-### 1.3 Editando o Código Fonte
+### 1.3 Editando o Projeto
 
-Se você deseja modificar o código ou ajustar o layout, o **Visual Studio Code** é uma excelente escolha.
+Se você quiser fazer alterações no código, a melhor ferramenta é o **Visual Studio Code**.
 
 1. **Instale o Visual Studio Code**:
-   - Acesse [o site oficial](https://code.visualstudio.com/) e faça o download do Visual Studio Code.
+   - Acesse [o site do Visual Studio Code](https://code.visualstudio.com/) e faça o download do editor de código.
 
-2. **Abrindo o Projeto no VS Code**:
-   - Após a instalação, abra o Visual Studio Code e vá para **File > Open Folder...**.
-   - Selecione a pasta **doe-facil** e comece a editar os arquivos HTML, CSS e JavaScript.
+2. **Abra o Projeto no VS Code**:
+   - Após instalar, abra o Visual Studio Code e selecione **File > Open Folder...**.
+   - Navegue até a pasta **doe-facil** e comece a editar os arquivos conforme necessário.
 
-## 🌍 2. Colocando o Site no Ar
+## 🌍 2. Publicando o Site
 
-Agora que você já tem o site localmente, é hora de publicá-lo na web para que outras pessoas possam acessá-lo.
+Agora que você visualizou o site localmente, chegou a hora de colocar tudo no ar para que outras pessoas possam acessar.
 
-### 2.1 Escolhendo um Provedor de Hospedagem
+### 2.1 Escolha um Provedor de Hospedagem
 
 1. **Escolha um Provedor de Hospedagem**:
-   - Há diversas opções de provedores que oferecem planos ideais para sites simples, como serviços compartilhados ou hospedagem de sites estáticos.
+   - Existem várias opções para hospedar sites estáticos, como planos de hospedagem compartilhada, VPS ou provedores especializados em sites simples.
 
-2. **Adquira um Plano de Hospedagem**:
-   - Após escolher o provedor, selecione o plano de hospedagem que mais se encaixa nas necessidades do seu site.
+2. **Adquira o Plano de Hospedagem**:
+   - Após escolher o provedor, adquira o plano que melhor atenda às suas necessidades.
 
-### 2.2 Registrando seu Domínio
+### 2.2 Registrando um Domínio
 
-1. **Escolha e Registre um Domínio**:
-   - O domínio é o nome que seu site terá na internet (por exemplo, www.doe-facil.com). 
-   - Você pode comprar um domínio diretamente através da hospedagem ou por meio de uma registradora de domínios.
+1. **Escolha um Nome de Domínio**:
+   - O domínio é o endereço do seu site (exemplo: www.doe-facil.com).
+   - Você pode registrar um domínio através do seu provedor de hospedagem ou diretamente com uma registradora.
 
-2. **Configure o Domínio**:
-   - Depois de comprar o domínio, você receberá as instruções de configuração do painel de controle do seu provedor de hospedagem.
+2. **Configuração do Domínio**:
+   - Após registrar o domínio, siga as instruções fornecidas pelo seu provedor de hospedagem para configurar o domínio no painel de controle.
 
 ### 2.3 Enviando os Arquivos para o Servidor
 
-Agora que você tem o domínio e a hospedagem prontos, vamos transferir os arquivos do seu site para o servidor.
+Agora que você tem o domínio e a hospedagem, é hora de transferir os arquivos para o servidor.
 
-1. **Acesse o Painel de Controle da Hospedagem**:
-   - Após contratar o plano de hospedagem, você receberá as credenciais para acessar o painel de controle.
+1. **Acesse o Painel de Controle**:
+   - Após contratar o plano de hospedagem, você receberá os dados de acesso ao painel de controle da hospedagem.
 
-2. **Utilize o Gerenciador de Arquivos**:
-   - Dentro do painel de controle, localize o **Gerenciador de Arquivos**.
-   - Navegue até a pasta **public_html** ou sua equivalente, onde os arquivos do seu site serão armazenados.
+2. **Acesse o Gerenciador de Arquivos**:
+   - Dentro do painel de controle, localize a seção **Gerenciador de Arquivos** e entre na pasta **public_html** (ou pasta equivalente).
 
 3. **Faça o Upload do Arquivo ZIP**:
-   - No Gerenciador de Arquivos, clique em **Upload** e selecione o arquivo ZIP do repositório.
+   - No Gerenciador de Arquivos, selecione a opção **Upload** e envie o arquivo ZIP com os arquivos do site.
 
 4. **Extraia os Arquivos**:
-   - Após o upload, clique sobre o arquivo ZIP e selecione a opção **Extrair** para descompactar o conteúdo no servidor.
+   - Após o upload, selecione o arquivo ZIP no servidor e escolha a opção **Extrair** para descompactar os arquivos na pasta correta.
 
 ### 2.4 Configurando o Domínio
 
-Agora que os arquivos estão no servidor, você precisa associar o domínio ao seu site.
+Agora, você precisa apontar seu domínio para o servidor onde os arquivos foram carregados.
 
-1. **Configuração dos Servidores DNS**:
-   - Se o domínio foi adquirido em uma registradora externa, será necessário alterar os servidores DNS para apontar para os servidores da sua hospedagem.
+1. **Configuração de DNS**:
+   - Se o domínio foi adquirido fora da hospedagem, será necessário configurar os DNS (servidores de nome) no painel do registrador de domínio, apontando para os servidores do seu provedor de hospedagem.
 
-2. **Aguarde a Propagação DNS**:
-   - A propagação DNS pode levar de algumas horas até 48 horas para funcionar corretamente em todo o mundo.
+2. **Aguarde a Propagação dos DNS**:
+   - A propagação pode levar de algumas horas até 48 horas, dependendo da sua configuração de DNS.
 
-### 2.5 Verificando o Seu Site Online
+### 2.5 Acessando o Seu Site Online
 
-Depois de concluir todas as configurações, vamos testar o site no seu domínio.
+Agora que tudo está configurado, vamos verificar se o site está funcionando corretamente.
 
-1. **Acesse o Site no Navegador**:
-   - Abra o navegador e digite o seu domínio registrado (por exemplo, www.doe-facil.com).
+1. **Abra o Navegador e Acesse o Seu Domínio**:
+   - Digite o nome do seu domínio no navegador (exemplo: www.doe-facil.com).
 
 2. **Verifique o Funcionamento**:
-   - Se tudo foi feito corretamente, você verá o site online e acessível para todos.
+   - Se tudo estiver certo, você verá o site funcionando corretamente.
